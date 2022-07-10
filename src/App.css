@@ -1,0 +1,443 @@
+
+.container {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+
+.menu {
+  width: 100%;
+  height: 80px;
+  background-color: #830AD1;
+  font-size: 12px;
+  color: #fffbff;
+  padding-top: 15px;
+  padding-left: 5px;
+}
+
+.name {
+  color: #fffbff;
+  font-size: 14px;
+  margin-left: 9px;
+  margin-top: 20px;
+}
+
+.MenuSaldoConta {
+  width: 100%;
+  height: 50px;
+  margin: none;
+  color: black;
+}
+
+.ButtonLeft {
+  background: none;
+  border: none;
+  font-size: 18px;
+  color: white;
+  margin-right: 63%;
+}
+
+.ButtonRight {
+  background: none;
+  border: none;
+  font-size: 18px;
+  color: white;
+}
+
+.AcessoConta {
+  text-align: left;
+  background: none;
+  border: none;
+  font-size: 12px;
+  width: 87%;
+  margin-left: 10px;
+
+/*
+  background: none;
+  border: none;
+  font-size: 14px;
+  
+  margin-right: 250px;
+*/
+}
+
+.AcessoContaBnt {
+  background: none;
+  border: none;
+  font-size: 14px;
+}
+
+.SaldoConta{
+  font-size: 20px;
+  margin-left: 16px;
+}
+
+.SaldoConta2 {
+  font-size: 20px;
+  margin-left: 16px;
+}
+
+.CarrosselBtnContainer{
+  overflow-x: auto;
+  width: 100%;
+}
+
+.CarrosselBtn {
+  margin-top: 40px;
+  margin-left: 12px;
+  text-align: center;
+  display: flex;
+  
+}
+
+.CarrosselIcons {
+  width: 60px;
+  height: 60px;
+  font-size: 30px;
+  background-color: #dbdbdb;
+  border: none;
+  border-radius: 50px;
+  margin-top: 15px;
+  margin-right: 10px;
+
+}
+
+.CarrosselText {
+  font-size: 11px;
+}
+
+.meuscartoes{
+  margin: 10px;
+  text-align: left;
+  width: 94%;
+}
+
+.cartoes {
+  text-align: left;
+  font-size: 12px;
+  padding-left: 20px;
+  width:100%;
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+}
+
+.Carossel2Container{
+  overflow-x: auto;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.carrossel2{
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  width: fit-content;
+}
+
+.google{
+  text-align: left;
+  border: none;
+  border-radius: 10px;
+  width: 190px;
+  height: 80px;
+  margin-right: 10px;
+  font-size: 12px;
+}
+
+.trecho {
+  color: #830AD1;
+}
+
+.InvestimentoContainer {
+  padding: 10px;
+  width: 100%;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  border-color: #dbdbdb;
+  text-align: left;
+}
+
+.InvestimentoBtn {
+  text-align: left;
+  background: none;
+  border: none;
+  font-size: 12px;
+  width: 87%;
+}
+
+.InvestimentoBtnIcon {
+  text-align: right;
+  background: none;
+  border: none;
+  font-size: 14px;
+}
+
+.InvestimentoText {
+  font-size: 12px;
+  width: 94.1%;
+}
+
+.TrechoInvest{
+  font-size: 20px;
+  margin: 10px;
+}
+
+.PedacoNubank {
+  text-align: left;
+  font-size: 11px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  height: 40px;
+  width: 94%;
+  border-radius: 10px;
+  border: none;
+}
+
+.SaldoInvestimento {
+  text-align: left;
+  font-size: 11px;
+  margin-bottom: 5px;
+  height: 40px;
+  width: 94%;
+  border-radius: 10px;
+  border: none;
+}
+
+.CriptoContainer {
+  padding-left: 10px;
+  width: 100%;
+  border-bottom: 1px solid;
+  border-color: #dbdbdb;
+}
+
+.MoedaCriptoIcon {
+  font-size: 20px;
+}
+
+.CriptoBtn {
+  text-align: left;
+  background: none;
+  border: none;
+  font-size: 12px;
+  width: 87%;
+}
+
+.CriptoIcon {
+  text-align: right;
+  background: none;
+  border: none;
+  font-size: 14px;
+}
+
+.CriptoText {
+  font-size: 12px;
+}
+
+.SegurosContainer {
+  padding-left: 10px;
+  width: 100%;
+  border-bottom: 1px solid;
+  border-color: #dbdbdb;
+}
+
+.SeguroTextTitulo {
+  font-size: 14px;
+}
+
+.SeguroText {
+  font-size: 12px;
+}
+
+.SeguroBtnContainer
+ 
+.SeguroBtn {
+  text-align: left;
+  font-size: 12px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  height: 40px;
+  width: 94%;
+  border-radius: 10px;
+  border: none;
+}
+
+.coracao {
+  margin-top: 5px;
+}
+
+.SeguroIcon {
+  font-size: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.TrechoSeguro {
+  color: #830AD1;
+  text-align: right;
+  margin-top: -15px;
+}
+
+.ShoppingContainer {
+  padding-left: 10px;
+  width: 100%;
+  border-bottom: 1px solid;
+  border-color: #dbdbdb; 
+}
+
+.ShoppingBtn {
+  text-align: left;
+  background: none;
+  border: none;
+  font-size: 12px;
+  width: 87%;
+  margin-bottom: 10px;
+}
+
+.ShoppingIcon {
+  text-align: right;
+  background: none;
+  border: none;
+  font-size: 14px;
+}
+
+.ShoppingText {
+  margin: 5px;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.TituloCarrossel3 {
+  margin-left: 15px;
+  font-size: 12px;
+}
+
+.Carrossel3 {
+  overflow-x: auto;
+  width: 100%;
+  height: 290px;
+  margin-right: 10px;
+}
+
+.Carrossel3Container {
+  padding: 10px;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  width: fit-content;
+}
+
+.SamsungPayContainer {
+  margin-right: 15px;
+}
+
+.PayImage {
+  display: flex;
+  position: relative;
+  width: 190px;
+  height: 150px;
+  background-image: url('../src/img/samsung_pay_nubank.png');
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+  border: none;
+}
+
+.PayText {
+  display: flex;
+  position: relative;  
+  background-color: #f0f1f5;
+  width: 190px;
+  height: 90px;
+  border-bottom-left-radius: 5%;
+  border-bottom-right-radius: 5%;
+}
+
+.PortabilidadeContainer {
+  margin-right: 15px;
+}
+
+.PortabilidadeImage {
+  display: flex;
+  position: relative;
+  width: 190px;
+  height: 150px;
+  background-image: url('../src/img/portabilidade_nubank_.jpg');
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+  border: none;
+}
+
+.PortabilidadeText {
+  display: flex;
+  position: relative;  
+  background-color: #f0f1f5;
+  width: 190px;
+  height: 90px;
+  border-bottom-left-radius: 5%;
+  border-bottom-right-radius: 5%;
+}
+
+.ConviteContainer {
+  margin-right: 15px;
+}
+
+.ConviteImage {
+  display: flex;
+  position: relative;
+  width: 190px;
+  height: 150px;
+  background-image: url('../src/img/convite_nubank_.jpg');
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+  border: none;
+}
+
+.ConviteText {
+  display: flex;
+  position: relative;  
+  background-color: #f0f1f5;
+  width: 190px;
+  height: 90px;
+  border-bottom-left-radius: 5%;
+  border-bottom-right-radius: 5%;
+}
+
+.WhatsappContainer {
+  margin-right: 15px;
+}
+
+.WhatsappTextContainer {
+  background-color: #f0f1f5;
+}
+
+.WhatsappImage {
+  display: flex;
+  position: relative;
+  width: 190px;
+  height: 150px;
+  background-image: url('../src/img/whatsapp_nubank_.jpg');
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+  border: none;
+}
+
+.WhatsappText {
+  display: flex;
+  position: relative;  
+  background-color: #f0f1f5;
+  width: 190px;
+  height: 90px;
+  border-bottom-left-radius: 5%;
+  border-bottom-right-radius: 5%;
+}
+
+.WhatsappTextTitulo {
+  margin: 5%;
+}
+
+.WhatsappParagrafoText {
+  margin: 5%;
+  font-size: 10px;
+}
